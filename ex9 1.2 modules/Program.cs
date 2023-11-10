@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ex9_1._2_modules
+namespace ex9_1._2_modules // Ceci est la modification que j'ai faite à mon code pour tester la fusion des branches
 {
     class Program // trouver une valeur absolue
     {
